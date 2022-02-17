@@ -6,5 +6,11 @@
 - Bi-directional streaming and fully integrated pluggable authentication with HTTP/2-based transport
 
 ## [gRPC for .NET](https://github.com/grpc/grpc-dotnet)
-- gRPC for .NET Examples: https://github.com/grpc/grpc-dotnet/tree/master/examples
-- 
+- [gRPC for .NET Examples](https://github.com/grpc/grpc-dotnet/tree/master/examples)
+- [Tutorial: Create a gRPC client and server in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/grpc/grpc-start?view=aspnetcore-6.0&tabs=visual-studio)
+
+## What is Protobuf (Protocol Buffers)?
+- Protocol buffers, usually referred as Protobuf, is a protocol developed by Google to allow serialization and deserialization of structured data. 
+
+## What is gRPC and Protobuf?
+- Protobuf is the most commonly used IDL (Interface Definition Language) for gRPC. It's where you basically store your data and function contracts in the form of a proto file.
