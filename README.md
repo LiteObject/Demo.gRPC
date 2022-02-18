@@ -15,8 +15,12 @@
 ## What is gRPC and Protobuf?
 - Protobuf is the most commonly used IDL (Interface Definition Language) for gRPC. It's where you basically store your data and function contracts in the form of a proto file.
 
+```mermaid
+
 graph TD
     A[Hard] -->|Text| B(Round)
     B --> C{Decision}
     C -->|One| D[Result 1]
     C -->|Two| E[Result 2]
+
+```
